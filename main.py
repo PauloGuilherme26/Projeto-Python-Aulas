@@ -35,5 +35,3 @@ if idade >= 18:
     print(nome, "tem maior idade")
 else: 
     print(nome, "tem menor idade")
-
-    
