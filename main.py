@@ -16,6 +16,7 @@ idade = 25
 nome = "João"
 altura = 1.75
 
+
 #Exibir dados
 print("Nome:", nome)
 print("Idade:", idade)
@@ -34,3 +35,5 @@ if idade >= 18:
     print(nome, "tem maior idade")
 else: 
     print(nome, "tem menor idade")
+
+    
